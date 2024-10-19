@@ -1,0 +1,29 @@
+<wpml-config>
+	<admin-texts>
+		<key name="idyllic_theme_options">
+			<key name="idyllic_search_text" />
+			<key name="idyllic_tag_text" />
+			<key name="idyllic-img-upload-footer-image" />
+			<key name="idyllic_tag_text" />
+			<key name="idyllic_secondary_text" />
+			<key name="idyllic_secondary_url" />
+			<key name="idyllic_about_title" />
+			<key name="idyllic_about_description" />
+			<key name="idyllic_features_title" />
+			<key name="idyllic_features_description" />
+			<key name="idyllic_fact_figure_box_title" />
+			<key name="idyllic_fact_figure_box_description" />
+			<key name="idyllic-img-fact-fig-box-bg-image" />
+			<key name="idyllic_img_fact_fig_boxlink" />
+			<key name="idyllic_portfolio_title" />
+			<key name="idyllic_portfolio_description" />
+			<key name="idyllic_latest_blog_title" />
+			<key name="idyllic_latest_blog_description" />
+			<key name="idyllic-testimonial-bg-image" />
+			<key name="idyllic_our_testimonial_title" />
+			<key name="idyllic_testimonial_description" />
+			<key name="idyllic_team_member_title" />
+			<key name="idyllic_team_member_description" />
+		</key>
+	</admin-texts>
+</wpml-config>
