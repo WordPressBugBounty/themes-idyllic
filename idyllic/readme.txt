@@ -1,10 +1,10 @@
 === Idyllic ===
 Contributors: themefreesia
 Tags: threaded-comments, right-sidebar, four-columns, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, flexible-header, post-formats, footer-widgets, sticky-post, theme-options, translation-ready, e-commerce, education, portfolio
-Requires at least: 6.3
-Tested up to: 6.5
+Requires at least: 6.7
+Tested up to: 6.8.1
 Requires PHP: 5.6
-Stable tag: 1.2.1
+Stable tag: 1.2.2
 License: GNU General Public License version 3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -119,6 +119,9 @@ All the theme files and other un-specified scripts (customizer-custom-scripts.js
 =================================================================================
 
 == CHANGE LOG ==
+= 1.2.2 =
+	- Update - Tested with latest version of WordPress
+
 = 1.2.1 =
 	- Fix - Css fixed
 
